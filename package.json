@@ -1,0 +1,20 @@
+{
+  "name": "@nosirjonov/dark-mode",
+  "version": "1.0.4",
+  "main": "dark-mode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dark",
+    "mode",
+    "web",
+    "component"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Asadbek Nosirjonov",
+  "license": "ISC",
+  "description": "A simple dark mode web component"
+}
